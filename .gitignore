@@ -1,0 +1,17 @@
+bin/
+obj/
+publish/
+.vs/
+*.user
+*.exe
+*.dll
+installed_addons.json
+queue.json
+app.log
+presets/
+backups/
+extracted/
+!Python/Tools/steamcmd/steamcmd.exe
+!Python/Tools/gmod/gmad.exe
+!Python/Tools/gmod/tier0.dll
+!Python/Tools/gmod/vstdlib.dll
